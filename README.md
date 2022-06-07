@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am a  Automatic and Robotics master's degree student in PUT.
+🌱 I’m currently learning .Net Core Framework, but in future i want to become fullstack web developer with Vue.js, CSS, HTML.😄
+🔭 I’m currently working on passing exams.
 <!--
 **Mateusz-Myszczyszyn/Mateusz-Myszczyszyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
