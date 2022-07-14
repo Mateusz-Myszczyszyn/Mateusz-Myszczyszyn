@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently on Automatic and Robotics master's degree student in PUT.	
+I am Automatic and Robotics master's degree student in PUT.	
 - 🌱 I’m currently learning .Net Core Framework, but in future i want to become fullstack web developer with Vue.js, CSS, HTML.😄
 - 🔭 I’m currently working on passing exams.
 <!--
